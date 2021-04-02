@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cosmin
 - 👀 I’m interested in JavaScript and frontend development.
-- 💞️ I’m looking to collaborate on cool projects which use react js, node js or jQuery.
+- 💞️ I’m looking to collaborate on cool projects which use node js, php, react js or jQuery.
 - 📫 How to reach me: horwath_cosmin@hotmail.com
 
 <!---
